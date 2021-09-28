@@ -1,0 +1,14 @@
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\bin\Debug\netcoreapp3.1\Day10-EmployeeWage.exe
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\bin\Debug\netcoreapp3.1\Day10-EmployeeWage.deps.json
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\bin\Debug\netcoreapp3.1\Day10-EmployeeWage.runtimeconfig.json
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\bin\Debug\netcoreapp3.1\Day10-EmployeeWage.runtimeconfig.dev.json
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\bin\Debug\netcoreapp3.1\Day10-EmployeeWage.dll
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\bin\Debug\netcoreapp3.1\Day10-EmployeeWage.pdb
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\obj\Debug\netcoreapp3.1\Day10-EmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\obj\Debug\netcoreapp3.1\Day10-EmployeeWage.AssemblyInfoInputs.cache
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\obj\Debug\netcoreapp3.1\Day10-EmployeeWage.AssemblyInfo.cs
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\obj\Debug\netcoreapp3.1\Day10-EmployeeWage.csproj.CoreCompileInputs.cache
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\obj\Debug\netcoreapp3.1\Day10-EmployeeWage.dll
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\obj\Debug\netcoreapp3.1\Day10-EmployeeWage.pdb
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\obj\Debug\netcoreapp3.1\Day10-EmployeeWage.genruntimeconfig.cache
+E:\ASP.NET\Day10-EmployeeWageComputation\Day10-EmployeeWage\obj\Debug\netcoreapp3.1\Day10-EmployeeWage.csproj.AssemblyReference.cache
